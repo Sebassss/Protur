@@ -6,7 +6,7 @@
  * Time: 09:02 AM
  */
 
-define ('DATABASE_NAME' , 'MSP-GeDoc-Desarrollo');
+define ('DATABASE_NAME' , 'MSP-GeDoc');
 
 define ('DATABASE_HOST', '10.64.65.200');
 

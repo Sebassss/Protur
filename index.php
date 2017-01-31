@@ -31,7 +31,12 @@
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  <!--    css personalizado-->
+
+  <!-- jQuery  -->
+  <script src="dist/js/jquery-3.1.1.min.js"></script>
+  <link rel="stylesheet" href="dist/css/jquery.dataTables.min.css">
+  <script src="dist/js/jquery.dataTables.min.js"></script>
+
 <!--  <link rel="stylesheet" href="dist/css/custom.css">-->
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -167,8 +172,7 @@
 
 <!-- REQUIRED JS SCRIPTS -->
 
-<!-- jQuery 2.2.3 -->
-<script src="dist/js/jquery-3.1.1.min.js"></script>
+
 <!-- Bootstrap 3.3.6 -->
 <script src="dist/js/bootstrap.min.js"></script>
 <!-- AdminLTE App -->
